@@ -13,6 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+GoodView-Website
+│
+├── index.html
+├── about.html
+├── products.html
+├── news.html
+├── contact.html
+│
+└── css
+     └── style.css
+
 
 
 
